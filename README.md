@@ -2,13 +2,13 @@
 
 #### Multiple Regions
 
-| Vendor                      | Geographic Regions* | Reference |
-| :---: | :---: | :---: |
-| Microsoft Azure | 54  | https://azure.microsoft.com/en-us/global-infrastructure/regions/  |
-| Google Cloud Platform | 20  | https://cloud.google.com/about/locations/ |
-| Amazon Web Services  | 22  | https://aws.amazon.com/about-aws/global-infrastructure/  |
+Cloud Vendor & Geographic Regions table, showing current & announced regions:
 
-> `*` - current & announced
+| Cloud Vendor | Geographic Regions | Reference |
+| :---: | :---: | :---: |
+| Microsoft Azure | 54  | https://azure.microsoft.com/en-us/global-infrastructure/regions/ |
+| Google Cloud Platform | 20  | https://cloud.google.com/about/locations/ |
+| Amazon Web Services  | 22  | https://aws.amazon.com/about-aws/global-infrastructure/ |
 
 #### Messaging Support
 
